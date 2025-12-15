@@ -37,7 +37,7 @@ OpenGL
 
 GLFW
 
-GLAD (if used in your environment)
+GLAD
 
 GLSL Shaders
 
@@ -51,11 +51,7 @@ Build the solution
 
 Run the program
 
-Note: This project is based on the CS 330 provided framework, so required libraries (GLFW/OpenGL) must be properly included for compilation.
-
 Controls
-
-(Update this section to match your project’s actual keybinds)
 
 W A S D: Move camera
 
@@ -66,8 +62,6 @@ Q / E: Move up and down
 Scroll Wheel: Zoom in/out
 
 Project Structure
-
-(Example, adjust to match your repo)
 
 main.cpp — program entry point
 
